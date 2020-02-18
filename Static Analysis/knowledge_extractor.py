@@ -142,7 +142,7 @@ import requests
 import os
 import glob
 
-api_key = "f429b594917f733ec948e2966b6203fe57a5484e1d4a8a961e2c6b1b323294e5"
+api_key = "<api_key>"
 
 os.chdir("./test")
 all_filenames = [i for i in glob.glob('*')]
